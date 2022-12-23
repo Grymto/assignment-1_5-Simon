@@ -1,0 +1,47 @@
+.body{
+
+    background-color: black;
+}
+
+.h1 {
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.h2 {
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+
+}
+
+.input1{
+
+
+}
+
+.input2{
+
+
+}
+
+.button {
+     background-color:#4506f0;
+     border-style: dotted;
+     border-color: crimson;
+     color: rgb(35, 226, 14);
+     padding: 10px 15px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 17px;
+     margin: 4px 2px;
+     transition-duration: 0.4s;
+     cursor: pointer;
+    
+}
+.button1:hover {
+    background-color: #07921c;
+    color: rgb(6, 0, 0);
+  }
